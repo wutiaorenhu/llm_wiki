@@ -30,3 +30,14 @@
 - 创建概念页：[[cognitive-core]]、[[process-vs-outcome-supervision]]、[[model-collapse]]
 - 级联更新：与已有 AI 对齐相关页面建立了交叉引用（过程监督 ↔ Anthropic 过程导向学习、认知核心 ↔ 机械可解释性）
 - 索引已更新
+
+---
+
+## [2025-06-01] ingest | AI 裁员陷阱 (Falk & Tsoukalas, 2026)
+
+- 来源：arXiv 经济学论文 + Forrester Predictions 2026 实证数据
+- PDF 无法直接解析，通过 WebFetch 和 WebSearch 获取内容
+- 创建来源摘要：[[ai-layoff-trap]]
+- 创建概念页：[[ai-layoff-trap]]（需求外部性、协调失败、Pigouvian 税）
+- 级联更新：[[ai-alignment]]、[[Anthropic]]、[[Andrej Karpathy]] 添加交叉引用
+- 索引已更新

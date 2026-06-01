@@ -6,6 +6,7 @@ sources:
 related:
   - "[[机械可解释性]]"
   - "[[规模化监督]]"
+  - "[[AI 裁员陷阱]]"
   - "[[Anthropic]]"
 created: 2025-05-30
 updated: 2025-05-30

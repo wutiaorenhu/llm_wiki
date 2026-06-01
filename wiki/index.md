@@ -7,6 +7,7 @@
 ## 概念 (concepts)
 
 - [[ai-alignment]] — AI 对齐：确保 AI 目标与人类价值一致的技术问题，包含三种情景框架
+- [[ai-layoff-trap]] — AI 裁员陷阱：企业理性自动化导致过度取代工人，需求外部性使所有参与者受损
 - [[cognitive-core]] — 认知核心：将推理能力与记忆/知识分离，保留最精简的推理引擎
 - [[mechanistic-interpretability]] — 机械可解释性：将神经网络逆向工程为人类可理解的算法
 - [[model-collapse]] — 模型崩溃：合成数据训练导致输出分布多样性坍缩
@@ -20,6 +21,7 @@
 
 ## 来源摘要 (sources)
 
+- [[ai-layoff-trap]] — AI 裁员陷阱 (Falk & Tsoukalas, 2026)：需求外部性、Pigouvian 自动化税
 - [[anthropic-core-views-on-ai-safety]] — Anthropic AI 安全核心观点 (2023)：三种情景、三类研究、六个方向
 - [[dwarkesh-karpathy-interview]] — Dwarkesh 访谈 Andrej Karpathy (2025)：AGI 十年、RL 缺陷、认知核心、模型崩溃
 
@@ -29,4 +31,4 @@
 
 ---
 
-**最后更新：** 2025-05-30
+**最后更新：** 2025-06-01

@@ -8,6 +8,7 @@ related:
   - "[[结果监督 vs 过程监督]]"
   - "[[模型崩溃]]"
   - "[[AI 对齐]]"
+  - "[[AI 裁员陷阱]]"
 created: 2025-05-30
 updated: 2025-05-30
 confidence: high

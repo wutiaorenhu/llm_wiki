@@ -5,6 +5,7 @@ sources:
   - raw/articles/关于人工智能安全的核心观点：何时、为什么、什么以及如何 _ 人类化 --- Core Views on AI Safety_ When, Why, What, and How _ Anthropic.pdf
 related:
   - "[[AI 对齐]]"
+  - "[[AI 裁员陷阱]]"
   - "[[机械可解释性]]"
   - "[[规模化监督]]"
 created: 2025-05-30
